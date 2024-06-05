@@ -1,0 +1,78 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    color:rgb(0, 255, 255);
+    background-color: black;
+    width: 30%;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.bullet
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(14, 108, 34);
+    border-radius: 30px;
+    width:20%;
+    font-size: large;
+    font-weight: bold;
+}
+.bullet
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(14, 108, 34);
+    border-radius: 30px;
+    width:20%;
+    font-size: large;
+    font-weight: bold;
+}
+.innova
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(189, 20, 156);
+    border-radius: 30px;
+    width:20%;
+    font-size: large;
+    font-weight: bold;
+}
+.lord
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(84, 12, 17);
+    border-radius: 30px;
+    width:20%;
+    font-size: large;
+    font-weight: bold;
+}
+.system
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 107, 149);
+    border-radius: 30px;
+    width:20%;
+    font-size: large;
+    font-weight: bold;
+}
+.tiger
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 152, 0);
+    border-radius: 30px;
+    width:20%;
+    font-size: large;
+    font-weight: bold;
+}
+.heading1
+{
+    color:rgb(4, 255, 0);
+    background-color: black;
+    width: 30%;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: xx-large;
+    font-weight: bolder;
+}

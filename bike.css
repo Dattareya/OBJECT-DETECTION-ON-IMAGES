@@ -1,0 +1,11 @@
+canvas
+{
+    float: left;
+    box-shadow: 3px 3px 1px #ccc;
+    padding-top: 10px;
+}
+.bike
+{
+   height: 50px;
+
+}
